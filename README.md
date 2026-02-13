@@ -457,7 +457,7 @@ Explain the approach and thought process...
 def solution():
     pass
 ```
-
+```
 **Explanation:**
 Step-by-step breakdown...
 
